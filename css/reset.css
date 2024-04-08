@@ -1,0 +1,9 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{text-decoration: none; display: block; color: #0F0D0D;}
+ul{list-style: none;}
+img{width: 100%;}
+
+body{
+    font-family: 'Inter','Nanum Gothic';
+    color: #0F0D0D;
+}
